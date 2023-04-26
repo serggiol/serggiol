@@ -6,7 +6,7 @@ var serggio = new Object();
 ```
 
 [![card](https://github-readme-stats.vercel.app/api?username=serggiol&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=serggiol&hide=html&layout=compact&theme=dark)](https://github.com/serggiol/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=serggiol&hide=html&layout=compact&theme=light)](https://github.com/serggiol/github-readme-stats)
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
