@@ -2,7 +2,7 @@
 var serggio = new Object();
   name = "Sérgio Luiz";
   age = "20";
-  operatingArea = front-end;
+  operatingArea = "front-end";
 ```
 
 [![card](https://github-readme-stats.vercel.app/api?username=serggiol&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
