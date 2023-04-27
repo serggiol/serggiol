@@ -5,8 +5,10 @@ var serggio = new Object();
   operatingArea = "front-end";
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=serggiol&show_icons=true&theme=dark&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serggiol&layout=compact&theme=dark&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=serggiol&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serggiol&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
